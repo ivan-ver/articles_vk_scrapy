@@ -1,0 +1,4 @@
+Используемые бибилиотеки:
+- scrapy
+- itemadapter
+- csv
